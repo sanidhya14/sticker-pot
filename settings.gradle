@@ -1,0 +1,2 @@
+rootProject.name = "Sticker Pot"
+include ':app'
